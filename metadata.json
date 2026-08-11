@@ -1,0 +1,6 @@
+{
+  "name": "The Haven",
+  "description": "5-star luxury boutique hotel featuring editorial design, fine dining, bespoke wellness spa, and an AI Concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
